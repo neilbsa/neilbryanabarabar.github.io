@@ -16,8 +16,6 @@ var stackMessages=[
     "JQuery Developer",
     "Clean Architecture Compliance",
     "Docker Deployment",
-
-   
     "Javascript Developer",
     "Wordpress Developer",
     "MSSQL Administrator",
