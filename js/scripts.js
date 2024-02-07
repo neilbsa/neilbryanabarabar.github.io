@@ -10,17 +10,13 @@
 var stackMessages=[
     "ASP.NET MVC Developer",
     ".Net Core Developer",
-    "Nativescript Developer",
-    "Angular Developer",
+    "Flutter Developer",
     "Typescript Developer",
     "JQuery Developer",
     "Clean Architecture Compliance",
     "Docker Deployment",
-    "Javascript Developer",
-    "Wordpress Developer",
     "MSSQL Administrator",
     "Microservice Compliance",
-    "WPF Developer",
     "Bootstrap",
     "Kubernetes",
     "Python Developer"
