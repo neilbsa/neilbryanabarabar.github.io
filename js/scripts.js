@@ -10,16 +10,14 @@
 var stackMessages=[
     "ASP.NET MVC Developer",
     ".Net Core Developer",
-    "Flutter Developer",
-    "Typescript Developer",
-    "JQuery Developer",
     "Clean Architecture Compliance",
-    "Docker Deployment",
-    "MSSQL Administrator",
+    "Microsoft SQL Administrator",
     "Microservice Compliance",
+        "Modular Monolith",
+   "JQuery Developer",
+    "Docker Development",
     "Bootstrap",
-    "Kubernetes",
-    "Python Developer"
+
     ];
 var rank=0;
 
